@@ -1,4 +1,4 @@
-baseURL = 'http://hugo-quickstart-template.netlify.com'
+baseURL = 'https://diypedals.net'
 languageCode = 'en-us'
 title = 'diypedals.net'
 theme = 'hugo-flex'
