@@ -33,7 +33,7 @@ None. This is primarily a **passion project** because the community will benefit
 
 
 
-That said... Some of the categories in the link directory are specifically vendors. If you want to see a list of sites where you can be pedal PCBs, we'll have that here as well. We ([MAS Effects](https://mas-effects.com)) sell a handful of useful and niche products for DIY pedals, and if this site helps bring more people into the hobby it will also bring us more potential customers. However we WILL NOT give our links preferential treatment or spam visitors with ads in any way. We believe that **rising tides lift all boats**.
+That said... Some of the categories in the link directory are specifically lists of vendors. If you want to see a list of sites where you can buy pedal PCBs, we'll have that here as well. We ([MAS Effects](https://mas-effects.com)) sell a handful of useful and niche products for DIY pedals, and if this site helps bring more people into the hobby it will also bring us more potential customers. However we WILL ABSOLUTELY list all reputable vendors, and it won't just be a listing of our products. We believe that **rising tides lift all boats**.
 
 
 
