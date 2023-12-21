@@ -1,4 +1,4 @@
-# Coming 2023: DIY Pedals Directory
+# Coming 2024: DIY Pedals Directory
 
 <span class="valueprop">A one stop shop for all things DIY pedals.</span>
 
