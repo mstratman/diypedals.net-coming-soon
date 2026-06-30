@@ -5,3 +5,9 @@ theme = 'hugo-flex'
 
 [markup.goldmark.renderer]
     unsafe = true
+
+[params]
+    color = "#0f0f13"
+    width = "740px"
+    css = ["diypedals.css"]
+    footer = '&copy; diypedals.net &mdash; a community project'

@@ -1,3 +1,211 @@
+:root {
+  --accent: #e8650a;
+  --accent-pale: rgba(232, 101, 10, 0.12);
+  --accent-light: #ff8c42;
+  --bg: #faf9f6;
+  --surface: #ffffff;
+  --text: #1c1917;
+  --text-muted: #78716c;
+  --border: #e7e5e4;
+  --nav-bg: #0f0f13;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+/* ── Nav ─────────────────────────────── */
+
+.u-background {
+  background: var(--nav-bg);
+  border-bottom: 2px solid var(--accent);
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.4);
+}
+
+.Banner {
+  padding: 0.125rem 0;
+}
+
+.Banner-link {
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 0.9375rem;
+  transition: color 0.15s;
+}
+
+.Banner-item--title .Banner-link {
+  color: var(--accent);
+  font-size: 1.25rem;
+  font-weight: 800;
+  letter-spacing: -0.02em;
+}
+
+.Banner-link:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* ── Layout ──────────────────────────── */
+
+.u-padding {
+  padding: 0 1.5rem;
+}
+
+main {
+  padding-bottom: 3rem;
+}
+
+/* ── Page title ──────────────────────── */
+
+h1 {
+  font-size: 2.25rem;
+  font-weight: 800;
+  letter-spacing: -0.03em;
+  line-height: 1.15;
+  margin: 3rem 0 0.375rem;
+  color: var(--text);
+}
+
+/* ── Tagline / valueprop ─────────────── */
+
 .valueprop {
-  font-weight: bold;
+  display: block;
+  font-size: 1.125rem;
+  font-weight: 400;
+  color: var(--text-muted);
+  margin-top: 0.25rem;
+  margin-bottom: 2.5rem;
+  padding-bottom: 2rem;
+  border-bottom: 1px solid var(--border);
+}
+
+/* ── Section headings ────────────────── */
+
+h3 {
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  margin: 2.5rem 0 0.6rem;
+  padding: 0.25rem 0 0.25rem 0.875rem;
+  border-left: 3px solid var(--accent);
+}
+
+/* ── Body text ───────────────────────── */
+
+p {
+  line-height: 1.8;
+  margin: 0 0 0.875rem;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: var(--accent-light);
+}
+
+strong {
+  font-weight: 700;
+  color: var(--text);
+}
+
+em {
+  font-style: italic;
+}
+
+/* ── Contact form ────────────────────── */
+
+.Contact-group {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.Contact-hidden {
+  display: none;
+}
+
+.Contact {
+  max-width: none;
+  margin: 1.25rem 0 2.5rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 0.75rem;
+  padding: 1.75rem;
+  box-shadow:
+    0 1px 3px rgba(0, 0, 0, 0.06),
+    0 4px 16px rgba(0, 0, 0, 0.05);
+}
+
+.Contact-item {
+  margin: 0.75rem 0;
+  align-items: flex-start;
+}
+
+.Contact-label {
+  flex-basis: 5.5rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  padding-top: 0.55rem;
+}
+
+.Contact-input {
+  border: 1px solid var(--border);
+  border-radius: 0.375rem;
+  padding: 0.5rem 0.75rem;
+  font-family: inherit;
+  font-size: 0.9375rem;
+  background: var(--bg);
+  color: var(--text);
+  transition: border-color 0.15s, box-shadow 0.15s;
+}
+
+.Contact-input:focus {
+  outline: none;
+  border-color: var(--accent);
+  box-shadow: 0 0 0 3px var(--accent-pale);
+}
+
+.Contact-input--textbox {
+  height: 6rem;
+}
+
+.Contact-button {
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 0.375rem;
+  padding: 0.625rem 2rem;
+  font-family: inherit;
+  font-size: 0.9375rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+  transition: filter 0.15s, transform 0.12s;
+}
+
+.Contact-button:hover {
+  filter: brightness(1.12);
+  transform: translateY(-1px);
+}
+
+.Contact-button:active {
+  filter: brightness(0.95);
+  transform: none;
+}
+
+/* ── Footer ──────────────────────────── */
+
+.Footer {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  border-top: 1px solid var(--border);
+  margin-top: 0;
 }
