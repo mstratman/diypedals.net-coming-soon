@@ -2,58 +2,22 @@
 
 <span class="valueprop">A one stop shop for all things DIY pedals.</span>
 
-### What's the goal?
+### What is it?
 
-We're making a guided tour for newcomers to the hobby, and a one-stop-shop for all things DIY Pedals for everybody else.
+A **DMOZ-style directory of curated, categorized links** — a guided tour for newcomers and a central resource for everyone else. People don't know what they don't know, so this site makes pedal building **discoverable**.
 
-People don't know what they don't know, so this site makes pedal building **discoverable**.
+Google works fine *if* you already know what to search for, and *if* you're willing to dig past SEO-bait garbage burying the great timeless articles. A directory makes knowledge **browsable**, with commentary on each link so you know what you're getting before you click.
 
+### What's your angle?
 
+Honestly? It's a **passion project** — the community needs this. We ([MAS Effects](https://mas-effects.com)) do sell DIY pedal products, and yes, more people in the hobby means more potential customers. But we'll list every reputable vendor, not just ourselves. **Rising tides lift all boats.**
 
-### And what form will it take?
+The entire directory will be open source on GitHub, because this is a community effort and the fruits of it should belong to everyone.
 
-Specifically this is going to be a **DMOZ style directory of curated and categorized links** in an organized hierarchy. There may be some original content spread throughout as well.
+### Want to help?
 
+Collecting, categorizing, and curating links is a big job, and we need volunteers! You'll be able to submit links and corrections, or join as an editor with access to the full CMS. **This thing gets better the more people are involved** — come be part of building something the DIY pedal community has needed for a long time.
 
-
-### Can't I just "google it?"
-
-Sure, you can.
-*IF* you know exactly what you're looking for. And if you're willing to parse through low quality garbage "content" created to play the Search Engine Optomization game for ad revenue. Great and timeless articles get buried by the algorithms for being "stale."
-
- 
-
-A directory makes knowledge **browsable**, and **discoverable**. For a niche hobby like DIY guitar and bass pedals this can be invaluable, especially if we add commentary to each link helping you contextualize what you'll find there.
-
-
-
-### What's the catch? What's your angle? <insert skepticism here>
-
-None. This is primarily a **passion project** because the community will benefit from it. We believe it will help provide a welcoming introduction to the hobby for newcomers, as well as be a continued central resource veterans will visit again and again.
-
-
-
-That said... Some of the categories in the link directory are specifically lists of vendors. If you want to see a list of sites where you can buy pedal PCBs, we'll have that here as well. We ([MAS Effects](https://mas-effects.com)) sell a handful of useful and niche products for DIY pedals, and if this site helps bring more people into the hobby it will also bring us more potential customers. However we WILL ABSOLUTELY list all reputable vendors, and it won't just be a listing of our products. We believe that **rising tides lift all boats**.
-
-
-
-This is going to be a win for everyone, most of all people looking for anything related to DIY pedals.
-
-
-
-### Open source, volunteer project
-
-Collecting, categorizing, and curating links is a big job. Visitors to the site will be able to submit new links, corrections, and updates. But we also need volunteers to help populate and maintain the site through the admin section of our Content Managmenet System. If you're interested, please feel sign up below!
-
-
-
-The entire directory (all the data files, links, categories, etc) will be freely available on Github for posterity. Because this is a community effort, we want to ensure 100% of the fruits of this labor are available freely to all.
-
-
-
-### Questions? Want to help?
-
-Or just want to be notified when it's available? Sign up below.
-
+Or just sign up to be notified when it launches.
 
 {{< contact >}}
