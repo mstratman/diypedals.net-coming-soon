@@ -1,3 +1,8 @@
+---
+---
+
+<span class="kicker">// LAUNCHING SOON</span>
+
 # Coming SOONish: DIY Pedals Directory
 
 <span class="valueprop">A one stop shop for all things DIY pedals.</span>
